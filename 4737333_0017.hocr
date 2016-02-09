@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737333_0017.png"; bbox 0 0 1745 2813; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 992 1135 1028">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 992 1135 1028">
+     <span class='ocr_line' id='line_1_1' title="bbox 488 992 1135 1028; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 488 993 631 1028; x_wconf 81' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 661 992 844 1028; x_wconf 87' lang='lat' dir='ltr'>OPTIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 873 992 1135 1028; x_wconf 85' lang='lat' dir='ltr'>CARISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 274 1128 1344 1195">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 274 1128 1344 1195">
+     <span class='ocr_line' id='line_1_2' title="bbox 274 1128 1344 1195; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 274 1128 886 1194; x_wconf 83' lang='lat' dir='ltr'><strong>LAURENTIO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 948 1128 1069 1194; x_wconf 87' lang='lat' dir='ltr'>PE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1089 1128 1344 1195; x_wconf 78' lang='lat' dir='ltr'>TERS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 528 1225 1090 1276">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 528 1225 1090 1276">
+     <span class='ocr_line' id='line_1_3' title="bbox 624 1225 987 1243; baseline 0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 624 1225 987 1243; x_wconf 69' lang='lat' dir='ltr'>OOOOOOOOOOOOOOOOOOO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 528 1257 1090 1276; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 528 1258 671 1276; x_wconf 67' lang='lat' dir='ltr'>flYssAsn</span> <span class='ocrx_word' id='word_1_9' title='bbox 682 1257 743 1275; x_wconf 75' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 746 1257 1090 1276; x_wconf 66' lang='lat' dir='ltr'>IIIIIIIIIIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
